@@ -24,7 +24,7 @@
         <div class="action-box">
           <div class="action-info">
             <h2>ELIMINAR</h2>
-            <p>Elimina cursos, especializaciones, tutorias y usuarios.</p>
+            <p>Elimina propiedades.</p>
           </div>
           <button @click="remove" class="eliminar-button"></button>
         </div>

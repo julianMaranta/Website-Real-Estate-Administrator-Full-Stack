@@ -10,14 +10,14 @@
       <div class="action-box">
         <div class="action-info">
           <h2>ALQUILER</h2>
-          <p>Elimina cursos.</p>
+          <p>Elimina alquileres.</p>
         </div>
         <button @click="deleteAlquiler" class="eliminar-button"></button>
       </div>
       <div class="action-box">
         <div class="action-info">
           <h2>VENTA</h2>
-          <p>Elimina Especializaciones.</p>
+          <p>Elimina ventas.</p>
         </div>
         <button @click="deleteVenta" class="eliminar-button"></button>
       </div>
